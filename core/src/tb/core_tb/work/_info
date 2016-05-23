@@ -1,0 +1,478 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/James/Desktop/LAB 3/Pipelined/core/src/tb/core_tb
+valu
+Z1 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z2 DXx4 work 11 definitions 0 22 O[kg@7lE7QVPQAX]>oRIV1
+DXx4 work 11 alu_sv_unit 0 22 59[VjQdXYDI:S6SFMkjRz3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 E8gQ<J5NjXOleR@3WPT7=2
+Iz5m5D74]MS0DHUD2:5o1E3
+!s105 alu_sv_unit
+S1
+R0
+Z4 w1459154462
+Z5 8../../alu.sv
+Z6 F../../alu.sv
+L0 4
+Z7 OV;L;10.4b;61
+Z8 !s108 1463795260.000000
+Z9 !s107 ../../alu.sv|
+Z10 !s90 -reportprogress|300|-work|work|../../alu.sv|
+!i113 1
+Z11 o-work work
+Xalu_sv_unit
+R1
+R2
+V59[VjQdXYDI:S6SFMkjRz3
+r1
+!s85 0
+31
+!i10b 1
+!s100 <JZIaAjWXa9OELhd]nVI;0
+I59[VjQdXYDI:S6SFMkjRz3
+!i103 1
+S1
+R0
+R4
+R5
+R6
+L0 2
+R7
+R8
+R9
+R10
+!i113 1
+R11
+vcl_decode
+R1
+R2
+DXx4 work 17 cl_decode_sv_unit 0 22 hgaUC5UVEWT^nPb3=?ezk0
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 T^ZWMGY5mjZXJ@jSd@iP<2
+Io_bPBGSIR[_0dO]GGSa692
+!s105 cl_decode_sv_unit
+S1
+R0
+R4
+Z12 8../../cl_decode.sv
+Z13 F../../cl_decode.sv
+L0 4
+R7
+R8
+Z14 !s107 ../../cl_decode.sv|
+Z15 !s90 -reportprogress|300|-work|work|../../cl_decode.sv|
+!i113 1
+R11
+Xcl_decode_sv_unit
+R1
+R2
+VhgaUC5UVEWT^nPb3=?ezk0
+r1
+!s85 0
+31
+!i10b 1
+!s100 m=kbU^j`zRoTP1_GO@4Wn2
+IhgaUC5UVEWT^nPb3=?ezk0
+!i103 1
+S1
+R0
+R4
+R12
+R13
+L0 1
+R7
+R8
+R14
+R15
+!i113 1
+R11
+vcl_state_machine
+R1
+R2
+DXx4 work 24 cl_state_machine_sv_unit 0 22 @W@1W8ZB9T@aU:VD8:1fe3
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 Fd>0eYhDj3dT]]HJ0e0KE2
+IY[e4?a:3ZTmocAl8[1kgY0
+!s105 cl_state_machine_sv_unit
+S1
+R0
+R4
+Z16 8../../cl_state_machine.sv
+Z17 F../../cl_state_machine.sv
+L0 3
+R7
+R8
+Z18 !s107 ../../cl_state_machine.sv|
+Z19 !s90 -reportprogress|300|-work|work|../../cl_state_machine.sv|
+!i113 1
+R11
+Xcl_state_machine_sv_unit
+R1
+R2
+V@W@1W8ZB9T@aU:VD8:1fe3
+r1
+!s85 0
+31
+!i10b 1
+!s100 XAG2Z0PlRPWcOi=2SB8?D1
+I@W@1W8ZB9T@aU:VD8:1fe3
+!i103 1
+S1
+R0
+R4
+R16
+R17
+L0 1
+R7
+R8
+R18
+R19
+!i113 1
+R11
+vcore
+R1
+R2
+DXx4 work 12 core_sv_unit 0 22 dC0f0bbSC5Hj@[cEb^R9Y0
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 ==HOd^Gl7:XO]8ziBURFU2
+I6j4ZOTX22FkCi@c<Bmb9[0
+!s105 core_sv_unit
+S1
+R0
+Z20 w1463795245
+Z21 8../../core.sv
+Z22 F../../core.sv
+Z23 L0 12
+R7
+R8
+Z24 !s107 ../../core.sv|
+Z25 !s90 -reportprogress|300|-work|work|../../core.sv|
+!i113 1
+R11
+vcore_flattened
+R1
+R2
+DXx4 work 22 core_flattened_sv_unit 0 22 4Z^19N4Df?Kk@6:Ph<U8M3
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 eOO1eP4<8b?G[=0V`nN7a0
+IT>>JKc:cz17gK9U:Q[0V_0
+!s105 core_flattened_sv_unit
+S1
+R0
+R4
+Z26 8../../core_flattened.sv
+Z27 F../../core_flattened.sv
+L0 4
+R7
+R8
+Z28 !s107 ../../core_flattened.sv|
+Z29 !s90 -reportprogress|300|-work|work|../../core_flattened.sv|
+!i113 1
+R11
+Xcore_flattened_sv_unit
+R1
+R2
+V4Z^19N4Df?Kk@6:Ph<U8M3
+r1
+!s85 0
+31
+!i10b 1
+!s100 zEdRCDALHzhN<ma1SK@Td2
+I4Z^19N4Df?Kk@6:Ph<U8M3
+!i103 1
+S1
+R0
+R4
+R26
+R27
+L0 1
+R7
+R8
+R28
+R29
+!i113 1
+R11
+Xcore_sv_unit
+R1
+R2
+VdC0f0bbSC5Hj@[cEb^R9Y0
+r1
+!s85 0
+31
+!i10b 1
+!s100 W0B;GBWD`BU<Pc?dKTTm31
+IdC0f0bbSC5Hj@[cEb^R9Y0
+!i103 1
+S1
+R0
+R20
+R21
+R22
+L0 1
+R7
+R8
+R24
+R25
+!i113 1
+R11
+vcore_tb
+R1
+R2
+DXx4 work 15 core_tb_sv_unit 0 22 M6Z`5XZeB07gf9d6nSobm2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 _Kkoa283_Gj@ICiWcYf462
+IMB5oZ@Be70d>b=lhZNCQE2
+!s105 core_tb_sv_unit
+S1
+R0
+R4
+Z30 8core_tb.sv
+Z31 Fcore_tb.sv
+L0 17
+R7
+Z32 !s108 1463795261.000000
+Z33 !s107 core_tb.sv|
+Z34 !s90 -reportprogress|300|-work|work|core_tb.sv|
+!i113 1
+R11
+Xcore_tb_sv_unit
+R1
+R2
+VM6Z`5XZeB07gf9d6nSobm2
+r1
+!s85 0
+31
+!i10b 1
+!s100 dn?K;=H]A7R^DMAHdgjHo1
+IM6Z`5XZeB07gf9d6nSobm2
+!i103 1
+S1
+R0
+R4
+R30
+R31
+L0 1
+R7
+R32
+R33
+R34
+!i113 1
+R11
+vdata_mem
+R1
+R2
+DXx4 work 16 data_mem_sv_unit 0 22 7lNb^_?QlGAKdH5dk?R0h3
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 X:3YKLn5=RCHahA^FgfJ;3
+I0aX2Jo?;fzS2_U8mK;ZY@2
+!s105 data_mem_sv_unit
+S1
+R0
+R4
+Z35 8../../data_mem.sv
+Z36 F../../data_mem.sv
+R23
+R7
+R8
+Z37 !s107 ../../data_mem.sv|
+Z38 !s90 -reportprogress|300|-work|work|../../data_mem.sv|
+!i113 1
+R11
+Xdata_mem_sv_unit
+R1
+R2
+V7lNb^_?QlGAKdH5dk?R0h3
+r1
+!s85 0
+31
+!i10b 1
+!s100 ;]F7jeGO1SbLAL<Zdz2o32
+I7lNb^_?QlGAKdH5dk?R0h3
+!i103 1
+S1
+R0
+R4
+R35
+R36
+L0 1
+R7
+R8
+R37
+R38
+!i113 1
+R11
+Xdefinitions
+R1
+!s110 1463795260
+!i10b 1
+!s100 adX@zZ>C:=ene_?LMKTe60
+IO[kg@7lE7QVPQAX]>oRIV1
+VO[kg@7lE7QVPQAX]>oRIV1
+S1
+R0
+w1463795004
+8../../definitions.sv
+F../../definitions.sv
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+!s107 ../../definitions.sv|
+!s90 -reportprogress|300|-work|work|../../definitions.sv|
+!i113 1
+R11
+vinstr_mem
+R1
+R2
+DXx4 work 17 instr_mem_sv_unit 0 22 Z2k6>iYAVP4D0giY`B_Q62
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 58BPifQ[RB?EUbaf6m3lQ0
+IlZiKn9cM2JOnQHGPziJkm0
+!s105 instr_mem_sv_unit
+S1
+R0
+R4
+Z39 8../../instr_mem.sv
+Z40 F../../instr_mem.sv
+L0 4
+R7
+R32
+Z41 !s107 ../../instr_mem.sv|
+Z42 !s90 -reportprogress|300|-work|work|../../instr_mem.sv|
+!i113 1
+R11
+Xinstr_mem_sv_unit
+R1
+R2
+VZ2k6>iYAVP4D0giY`B_Q62
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?ka<0nMZQMz0A@lj9=S?_3
+IZ2k6>iYAVP4D0giY`B_Q62
+!i103 1
+S1
+R0
+R4
+R39
+R40
+L0 1
+R7
+R32
+R41
+R42
+!i113 1
+R11
+Xnet_packet_logger_s_sv_unit
+R1
+R2
+V?A>kiA^C2L18PeV0b06^c1
+r1
+!s85 0
+31
+!i10b 1
+!s100 nLNHeeW[<O>VCKf2EKllU3
+I?A>kiA^C2L18PeV0b06^c1
+!i103 1
+S1
+R0
+R4
+Z43 8../../net_packet_logger_s.sv
+Z44 F../../net_packet_logger_s.sv
+L0 6
+R7
+R32
+Z45 !s107 ../../net_packet_logger_s.sv|
+Z46 !s90 -reportprogress|300|-work|work|../../net_packet_logger_s.sv|
+!i113 1
+R11
+vnetwork_packet_s_logger
+R1
+R2
+DXx4 work 27 net_packet_logger_s_sv_unit 0 22 ?A>kiA^C2L18PeV0b06^c1
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 oHCjPCTEjViD6biJR^]1L1
+I_A?OSUlMGYMiRMUFR:Wb:0
+!s105 net_packet_logger_s_sv_unit
+S1
+R0
+R4
+R43
+R44
+L0 8
+R7
+R32
+R45
+R46
+!i113 1
+R11
+vreg_file
+R1
+!s110 1463795261
+!i10b 1
+!s100 >cmPJ2e>mm`PH]@mm9`ZY1
+I1Y>lIhe0^^lNEo>;5dFIJ1
+R3
+!s105 reg_file_sv_unit
+S1
+R0
+R4
+8../../reg_file.sv
+F../../reg_file.sv
+L0 2
+R7
+r1
+!s85 0
+31
+R32
+!s107 ../../reg_file.sv|
+!s90 -reportprogress|300|-work|work|../../reg_file.sv|
+!i113 1
+R11
